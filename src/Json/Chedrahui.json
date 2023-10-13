@@ -1,0 +1,52 @@
+[
+    {
+        "Nombre": "Plaza Crystal",
+        "Direccion": "Centro Comercial Plaza Cristal, 72440 Puebla, Pue.",
+        "Url" : "https://maps.app.goo.gl/zvHEYaagH3tVAY7Z9"
+    },
+    {
+        "Nombre": "Selecto Angelopolis",
+        "Direccion": "LATERAL SUR DE LA, Atlixcáyotl 6510, 72820 Tlaxcalancingo, Pue.",
+        "Url" : "https://maps.app.goo.gl/q1xouRUcX1xPWj8e9"
+    },
+    {
+        "Nombre": "Cruz del Sur",
+        "Direccion": "Blvd. Forjadores de Puebla 1099, Los Arcos Sta Cruz, 72730 Puebla, Pue.",
+        "Url" : "https://maps.app.goo.gl/6xAMvVgbs7owkT9y5"
+    },
+    {
+        "Nombre": "Explanada Puebla",
+        "Direccion": "Casa Blanca - San Francisco Ocotlán 15, Santiago Momoxpan, 72774 Cholula, Pue.",
+        "Url" : "https://maps.app.goo.gl/ArerWNYtroVfKLuV7"
+    },
+    {
+        "Nombre": "Centro Sur",
+        "Direccion": "C. 11 Sur 11904, INFONAVIT Agua Santa, 72490 Puebla, Pue.",
+        "Url" : "https://maps.app.goo.gl/8NGRRnCETm59ZN4WA"
+    },
+    {
+        "Nombre": "UPAEP",
+        "Direccion": "Calle 9 Poniente, Calle 21 Sur 1901, entre 19 Sur y Prov, La Paz, 72000 Puebla, Pue.",
+        "Url" : "https://maps.app.goo.gl/EiEvS9xM9XLL5Cfu8"
+    },
+    {
+        "Nombre": "Xonaca",
+        "Direccion": "Av 20 Ote 4000, Diez de Mayo, 72270 Puebla, Pue.",
+        "Url" : "https://maps.app.goo.gl/VNvXCYnwyszucHf49"
+    },
+    {
+        "Nombre": "Atlixco",
+        "Direccion": "Blvd. 19 Ote. O Blvd. Niños Héroes 814, Cortijo de la Alfonsina, 74295 Atlixco, Pue.",
+        "Url" : "https://maps.app.goo.gl/TwjhAxZSjPqyjjEYA"
+    },
+    {
+        "Nombre": "Teziutlan",
+        "Direccion": "Prol de Mina 754, Barrio de Francia, 73890 Teziutlán, Pue.",
+        "Url" : "https://maps.app.goo.gl/sV3UM2rKMCPAsjX57"
+    },
+    {
+        "Nombre": "Tepeaca",
+        "Direccion": "Morelos Sur No. 309-B, Av. Gral. Maximino Ávila Camacho 233, entre 3 Sur y Calle 5 Poniente, Barrio del Centro, 75200 Tepeaca, Pue.",
+        "Url" : "https://maps.app.goo.gl/wnu7YSVFKkhCthaMA"
+    }
+]
