@@ -1,6 +1,4 @@
 <script>
-	import logoRajisimas from '../img/logoR.webp';
-
 	let email = '';
 	let tel = '';
 	let about = '';
@@ -45,7 +43,7 @@
 				flex flex-col items-center text-center
 			"
 		>
-			<img src={logoRajisimas} alt="Rajisimas" class="h-24" />
+			<!-- <img src={logoRajisimas} alt="Rajisimas" class="h-24" /> -->
 			<h4 class="font-bold- text-4xl text-black dark:text-white">
 				Contacta con nosotros
 			</h4>
